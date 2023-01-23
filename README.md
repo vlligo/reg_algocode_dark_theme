@@ -1,9 +1,9 @@
-# [ejudge.msk.ru](https://ejudge.msk.ru/) dark theme
-Dark theme for [ejudge.msk.ru](https://ejudge.msk.ru/)
+# [reg.algocode.ru](https://reg.algocode.ru) dark theme
+Dark theme for [reg.algocode.ru](https://reg.algocode.ru)
 ## Basic usage
 
 1. Install Stylus extension for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/), [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) or [Opera](https://addons.opera.com/en-gb/extensions/details/stylus/)
-2. Create new style applying to [ejudge.msk.ru](https://ejudge.msk.ru/)
+2. Create new style applying to [reg.algocode.ru](https://reg.algocode.ru)
 3. Copy contents of main.css
 4. Save the file(`Ctrl` + `S` or `Cmd` + `S` for Mac)
 
